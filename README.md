@@ -1,6 +1,9 @@
 # MLP-Implementation-Deep-Neural-Network
 
 
+## Implementation Details
+The MLP Model has been implemented from scratch in python with numpy, which the CNN Model uses torch tensors for GPU Acceleration and Convolution Layers.
+
 ## Basic Outline
 This project was focused on designing an MLP and a CNN and training them on 2 different image datasets, namely
 Fashion MNIST and CIFAR-10. Experiments were ran on both different models for tuning the hyper parameters
